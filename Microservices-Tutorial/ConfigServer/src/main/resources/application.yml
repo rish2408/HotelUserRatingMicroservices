@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/rish2408/microservice-tutorial-config
+          uri: https://github.com/rish2408/microservice-config
           clone-on-start: true
 
 eureka:
